@@ -1,6 +1,6 @@
 
 <h2>Hey 👋, I'm <a href="https://farhanshahriar.me/">Farhan Shahrair</a></h2>
- I am a student at Mymensingh Engineering College with a passion for music and Bike riding. I am proficient in JavaScript . In my spare time, you can often find me playing guitar and keyboard. Here is a simple portfolio that showcases some of my skills and interests. 
+ I am a student at Mymensingh Engineering College with a passion for playing video games. I am proficient in Python & JavaScript. Here is a simple portfolio that showcases some of my skills and interests. 
 <br/>
 <br/>
 
