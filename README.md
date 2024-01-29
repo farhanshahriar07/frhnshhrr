@@ -6,9 +6,9 @@
 
 
 <p>
-<a href="https://farhanshahriar.me/"><img src="https://www.farhanshahriar.pages.dev/assets/img/favicon.ico" alt="Website Badge"></a> 
-<a href="https://instagram.com/fa.rhan5300"><img src="" alt="Instagram Badge"></a> 
-<a href="https://www.linkedin.com/in/raihanmiraj/"><img src="" alt="LinkedIn Badge"></a>
+<a href="https://farhanshahriar.me/"><img src="https://www.iconfinder.com/icons/326663/download/png/48" alt="Website Badge"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/fa.rhan5300"><img src="https://www.iconfinder.com/icons/1298747/download/png/48" alt="Instagram Badge"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/farhan-shahriar-hossain/"><img src="https://www.iconfinder.com/icons/317725/download/png/48" alt="LinkedIn Badge" /></a>
 
  
 </p>
@@ -28,6 +28,10 @@
 <br>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="fastAPI" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
  
  
